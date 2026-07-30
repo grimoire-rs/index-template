@@ -1,0 +1,13 @@
+{
+  "name": "index-template",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Bootstrap for a Grimoire package index. `npm run setup` replaces this file.",
+  "type": "module",
+  "scripts": {
+    "setup": "grim-indexer init --force ."
+  },
+  "devDependencies": {
+    "@grimoire-rs/indexer": "^0.3.0"
+  }
+}

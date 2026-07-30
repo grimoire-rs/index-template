@@ -1,0 +1,5 @@
+node_modules/
+.npm/
+
+# NOT ignored: `package-lock.json` is what pins the renderer this index builds
+# and validates with. `npm run setup` rewrites this file with the full set.
