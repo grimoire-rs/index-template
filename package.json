@@ -8,6 +8,6 @@
     "setup": "grim-indexer init --force ."
   },
   "devDependencies": {
-    "@grimoire-rs/indexer": "^0.3.0"
+    "@grimoire-rs/indexer": "^0.6.0"
   }
 }
